@@ -7,5 +7,5 @@ variable "region" {
 variable "bucket_name" {
   description = "The name of the S3 bucket to create"
   type        = string
-  default     = "test-bucket-2541"
+  default     = "test-25407"
 }
