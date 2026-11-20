@@ -1,4 +1,5 @@
 env/
-terraform/.terraform/
+site-infra/.terraform/
 *.tfstate
 *.tfstate.backup
+inventory.txt
