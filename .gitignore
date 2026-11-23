@@ -1,5 +1,7 @@
 env/
 site-infra/.terraform/
 *.tfstate
-*.tfstate.backup
+*.tfstate.*
 inventory.txt
+build/
+crash.log
